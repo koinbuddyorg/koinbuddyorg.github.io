@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[26050,["/_next/static/chunks/26u2xqdgniix1.js","/_next/static/chunks/3of-axh27_dzy.js"],"ViewportBoundary"]
+3:I[26050,["/_next/static/chunks/26u2xqdgniix1.js","/_next/static/chunks/3of-axh27_dzy.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[61850,["/_next/static/chunks/26u2xqdgniix1.js","/_next/static/chunks/3of-axh27_dzy.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#2CC6DC"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"KoinBuddy"}],["$","meta","1",{"name":"description","content":"A local-first personal finance app for Portuguese statements, invoices, goals, forecasting, and private AI help."}],["$","link","2",{"rel":"icon","href":"/favicon.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/app-icon.png"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"LsK_sc6dBWjp-w_gHwuZ6"}
